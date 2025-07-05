@@ -35,7 +35,6 @@
 <p align="left"> <a href="mailto:manana.ahmad.17@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-manana.ahmad.17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> </a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahmad-manana" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Ahmad_Manana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> &nbsp;&nbsp;
 <a href="tel:+96171236842"> <img src="https://img.shields.io/badge/Phone-+961%2071%20236%20842-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge"/> </a> </p>&nbsp;&nbsp;
----
 
 ### 🛠️ Skills
 
