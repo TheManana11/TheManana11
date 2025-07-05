@@ -4,7 +4,7 @@
 
   <h3>💻 Software Engineer | Full Stack Developer 💻</h3>
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Software+Development+Passionate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=56D364&center=true&vCenter=true&width=500&lines=Software+Development+Passionate" alt="Typing SVG" />
 </h3>
 
 <hr />
@@ -71,13 +71,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <a href="http://www.github.com/TheManana11">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheManana11&show_icons=true&count_private=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheManana11&show_icons=true&count_private=true&title_color=56D364&text_color=ffffff&icon_color=56D364&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="http://www.github.com/TheManana11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheManana11&stroke=ffffff&background=1c1917&ring=FF0000&fire=FF0000&currStreakNum=ffffff&currStreakLabel=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheManana11&stroke=ffffff&background=1c1917&ring=56D364&fire=56D364&currStreakNum=ffffff&currStreakLabel=56D364&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/TheManana11">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheManana11&langs_count=10&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <a href="https://github.com/TheManana11">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheManana11&langs_count=10&title_color=56D364&text_color=ffffff&icon_color=56D364&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
+</div>
