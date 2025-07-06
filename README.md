@@ -2,6 +2,8 @@
   
   <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">, I'm Ahmad Manana, Welcome to my Hub</h1>
 
+  ![Hello World](./hello_world.gif)
+
   <h3>💻 Software Engineer | Full Stack Developer 💻</h3>
 <h3 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=56D364&center=true&vCenter=true&width=500&lines=Software+Development+Passionate" alt="Typing SVG" />
